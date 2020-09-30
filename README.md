@@ -8,3 +8,7 @@ This factory setting uses DHCP
 Locate  the address of your smartlink from your router network map, or with an advanced IP scanner software.
 In our case the IP addres is 192.168.1.95
 Connect one circuit breaker with uxiliary contact to the Channel 1 of Smart Link
+
+As you can see on this link
+https://www.youtube.com/watch?v=34m9zWrT78I&ab_channel=XavierFlorensaBerenguer
+
